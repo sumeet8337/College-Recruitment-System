@@ -1,25 +1,3 @@
-# COLLEGE RECRUITMENT MANAGEMENT SYSTEM
-### SVKM'S MPSTME NMIMS SHIRPUR CAMPUS  ###
-### Computer Science Department ###
-
-- - - -
-
-## SUBMITTED BY ##
-  1. ADITYA KHARE
-  2. SAMKIT SARAF
-  3. YASH MEHTA
-  4. OMKAR SANWATSARKAR
-
-- B. TECH CSE 3rd YEAR 2020-2021 SEMESTER 5
-
-- - - - 
-
-## SUBMITTED TO ##
-- Prof. Sonali Borase (Course Theory Instructor)
-- Prof. Dhananjay Joshi (Course Lab Instructor)
-
-- - - -
-
 ## ABOUT THE PROJECT ##
 
 - The project named “Campus Recruitment Management System”, is a
